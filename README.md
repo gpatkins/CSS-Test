@@ -1,6 +1,7 @@
 # CSS-Test
 Testing CSS Code
 
+```CSS
 .nav-primary::before {
     background: rgba(0, 0, 0, 0);
     content: "";

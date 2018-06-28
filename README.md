@@ -1,5 +1,5 @@
-# CSS-Test
-Testing CSS Code
+# CSS-SPI THEME After Header
+Removes Shadow
 
 ```CSS
 .nav-primary::before {
